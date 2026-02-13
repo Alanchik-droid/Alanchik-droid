@@ -1,4 +1,4 @@
- Alan — ML/AI & Software Developer
+🤫 Alan — ML/AI & Software Developer
 
 Hi! I'm Alan, a passionate ML/AI engineer and software developer with strong foundations in advanced mathematics, algorithms, and high-performance systems. I build intelligent, scalable, and efficient software across multiple platforms.
 
