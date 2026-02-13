@@ -1,82 +1,52 @@
-🧠 High-Performance AI System
+ Alan — ML/AI & Software Developer
 
-Production-ready machine learning architecture designed for scalable, efficient, and mathematically grounded intelligent systems.
+Hi! I'm Alan, a passionate ML/AI engineer and software developer with strong foundations in advanced mathematics, algorithms, and high-performance systems. I build intelligent, scalable, and efficient software across multiple platforms.
 
-📌 Overview
+🔹 About Me
 
-This project implements a modular ML pipeline focused on:
+Specializations: Machine Learning, Artificial Intelligence, Algorithm Design
 
-Data preprocessing and feature engineering
+Programming Languages: Python, Rust, C#, JavaScript
 
-Model training and evaluation
+Frameworks & Tools: Unity, TensorFlow, PyTorch, NumPy, SciPy
 
-Performance optimization
+Skills: Data modeling, performance optimization, simulation, interactive applications
 
-Scalable deployment-ready architecture
+Strengths: Advanced mathematics, problem-solving, research-driven development, modular architecture
 
-The system is built with strong foundations in:
-
-Linear Algebra
-
-Calculus
-
-Probability Theory
-
-Optimization Algorithms
+I enjoy combining rigorous math with creative coding to deliver solutions in AI, game development, and systems programming.
 
 🛠 Tech Stack
 
-Python — Model development, data processing, training pipeline
+Python — ML models, data pipelines, AI research
 
-Rust — Performance-critical modules
+Rust — Performance-critical, memory-safe modules
 
-C# / Unity — Real-time simulation layer (optional integration)
+C# / Unity — Real-time simulations and interactive projects
 
-JavaScript — API / dashboard components
+JavaScript — Full-stack components and dashboards
 
-🏗 Architecture
-project-name/
-│
-├── src/
-│   ├── data/             
-│   ├── models/            
-│   ├── training/          
-│   ├── evaluation/        
-│   └── utils/             
-│
-├── tests/                 
-├── notebooks/             
-├── requirements.txt
-└── README.md
+🔹 My Approach
 
-⚙ Installation
-git clone https://github.com/Alanchik-droid/ais.git
+I focus on:
 
-cargo build
+Writing clean, maintainable, and modular code
 
-📊 Features
+Optimizing algorithms for speed and scalability
 
-Modular and scalable architecture
+Leveraging math for better model performance
 
-Clean separation of concerns
+Building systems that are both practical and research-driven
 
-Performance-optimized components
+🔮 Current Interests
 
-Extensible model design
+AI model optimization and deployment
 
-Production-oriented structure
+Game AI with Unity
 
-🔮 Future Improvements
+High-performance Rust modules
 
-Distributed training
-
-Model quantization
-
-Deployment via Docker
-
-GPU acceleration support
-
-Benchmark suite integration
+Mathematical modeling of complex systems
 
 👤 Author
 
